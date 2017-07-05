@@ -1,0 +1,28 @@
+.top {
+   background-color: #025A86;
+   height: 40px;
+   color: #FFF;
+}
+
+.top-left {
+   padding-top: 8px;
+   color: #22A2E2;
+}
+
+.top-social {
+   padding-top: 8px;
+}
+
+.navbar-default {
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+22,006699+54 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(left,  #ffffff 22%, #006699 54%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #ffffff 22%,#006699 54%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #ffffff 22%,#006699 54%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#006699',GradientType=1 ); /* IE6-9 */
+
+}
+
+.item_vertical_align_middle {
+   vertical-align: middle;
+}
